@@ -1,4 +1,4 @@
-const orders = require('./Order');
+const orders = require('../Controller/OrderController');
 
 module.exports = (app) =>{
    
